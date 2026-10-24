@@ -1,0 +1,1086 @@
+[
+  {
+    "candidateCount": 151,
+    "confidence": 0.3148766,
+    "expected": "Apple",
+    "fixture": "Apple/image_1.jpg",
+    "predicted": "Pear"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99950886,
+    "expected": "Avocado",
+    "fixture": "Avocado/image_1.jpg",
+    "predicted": "Avocado"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.7296278,
+    "expected": "Banana",
+    "fixture": "Banana/image_1.jpg",
+    "predicted": "Banana"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99657494,
+    "expected": "Beetroot",
+    "fixture": "Beetroot/image_1.jpg",
+    "predicted": "Beetroot"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99999994,
+    "expected": "Blackberry",
+    "fixture": "Blackberry/image_1.jpg",
+    "predicted": "Blackberry"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9957427,
+    "expected": "Blueberry",
+    "fixture": "Blueberry/image_1.jpg",
+    "predicted": "Blueberry"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.999117,
+    "expected": "Broccoli",
+    "fixture": "Broccoli/image_1.jpg",
+    "predicted": "Broccoli"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8774064,
+    "expected": "Cabbage",
+    "fixture": "Cabbage/image_1.jpeg",
+    "predicted": "Cabbage"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.89657474,
+    "expected": "Capsicum",
+    "fixture": "Capsicum/image_1.jpeg",
+    "predicted": "Capsicum"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.96520233,
+    "expected": "Carrot",
+    "fixture": "Carrot/image_1.jpg",
+    "predicted": "Carrot"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.49307808,
+    "expected": "Cauliflower",
+    "fixture": "Cauliflower/image_1.jpg",
+    "predicted": "Ginger"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999192,
+    "expected": "Chilli Peper",
+    "fixture": "Chilli Peper/image_1.jpg",
+    "predicted": "Chilli Peper"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9460563,
+    "expected": "Corn",
+    "fixture": "Corn/image_1.jpg",
+    "predicted": "Corn"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999712,
+    "expected": "Cucumber",
+    "fixture": "Cucumber/image_1.jpg",
+    "predicted": "Cucumber"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99882466,
+    "expected": "Dates",
+    "fixture": "Dates/image_1.jpg",
+    "predicted": "Dates"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999377,
+    "expected": "Dragonfruit",
+    "fixture": "Dragonfruit/image_1.jpg",
+    "predicted": "Dragonfruit"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.35118806,
+    "expected": "Eggplant",
+    "fixture": "Eggplant/image_1.jpg",
+    "predicted": "Avocado"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.45499897,
+    "expected": "Fig",
+    "fixture": "Fig/image_1.jpg",
+    "predicted": "Fig"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9995969,
+    "expected": "Garlic",
+    "fixture": "Garlic/image_1.jpg",
+    "predicted": "Garlic"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.88167167,
+    "expected": "Ginger",
+    "fixture": "Ginger/image_1.jpeg",
+    "predicted": "Ginger"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999999,
+    "expected": "Grapes",
+    "fixture": "Grapes/image_1.jpeg",
+    "predicted": "Grapes"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99941725,
+    "expected": "Guava",
+    "fixture": "Guava/image_1.jpg",
+    "predicted": "Guava"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9699108,
+    "expected": "Jalepeno",
+    "fixture": "Jalepeno/image_1.jpg",
+    "predicted": "Jalepeno"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9970441,
+    "expected": "Kiwi",
+    "fixture": "Kiwi/image_1.jpg",
+    "predicted": "Kiwi"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.98812836,
+    "expected": "Lemon",
+    "fixture": "Lemon/image_1.jpg",
+    "predicted": "Lemon"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99999714,
+    "expected": "Lettuce",
+    "fixture": "Lettuce/image_1.jpeg",
+    "predicted": "Lettuce"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99972516,
+    "expected": "Mango",
+    "fixture": "Mango/image_1.jpg",
+    "predicted": "Mango"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9996737,
+    "expected": "Mushroom",
+    "fixture": "Mushroom/image_1.jpg",
+    "predicted": "Mushroom"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9797104,
+    "expected": "Okra",
+    "fixture": "Okra/image_1.jpg",
+    "predicted": "Okra"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9774283,
+    "expected": "Olive",
+    "fixture": "Olive/image_1.jpg",
+    "predicted": "Olive"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99925274,
+    "expected": "Onion",
+    "fixture": "Onion/image_1.jpg",
+    "predicted": "Onion"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9993296,
+    "expected": "Orange",
+    "fixture": "Orange/image_1.jpeg",
+    "predicted": "Orange"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.97016007,
+    "expected": "Paprika",
+    "fixture": "Paprika/image_1.jpg",
+    "predicted": "Paprika"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9839303,
+    "expected": "Peanuts",
+    "fixture": "Peanuts/image_1.jpg",
+    "predicted": "Peanuts"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999996,
+    "expected": "Pear",
+    "fixture": "Pear/image_1.jpg",
+    "predicted": "Pear"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9864482,
+    "expected": "Peas",
+    "fixture": "Peas/image_1.jpg",
+    "predicted": "Peas"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 1,
+    "expected": "Pineapple",
+    "fixture": "Pineapple/image_1.jpg",
+    "predicted": "Pineapple"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 1,
+    "expected": "Pomegranate",
+    "fixture": "Pomegranate/image_1.jpg",
+    "predicted": "Pomegranate"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.1635741,
+    "expected": "Potato",
+    "fixture": "Potato/image_1.jpg",
+    "predicted": "garlic_bread"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 1,
+    "expected": "Pumpkin",
+    "fixture": "Pumpkin/image_1.jpg",
+    "predicted": "Pumpkin"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8964089,
+    "expected": "Raddish",
+    "fixture": "Raddish/image_1.jpg",
+    "predicted": "cup_cakes"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99754983,
+    "expected": "Rambutan",
+    "fixture": "Rambutan/image_1.jpg",
+    "predicted": "Rambutan"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.6356974,
+    "expected": "Soy Beans",
+    "fixture": "Soy Beans/image_1.jpg",
+    "predicted": "edamame"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.7400604,
+    "expected": "Spinach",
+    "fixture": "Spinach/image_1.jpg",
+    "predicted": "Spinach"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99999976,
+    "expected": "Strawberry",
+    "fixture": "Strawberry/image_1.jpg",
+    "predicted": "Strawberry"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.93538016,
+    "expected": "Sweetcorn",
+    "fixture": "Sweetcorn/image_1.jpg",
+    "predicted": "Sweetcorn"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.24855593,
+    "expected": "Sweetpotato",
+    "fixture": "Sweetpotato/image_1.jpg",
+    "predicted": "Sweetpotato"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999989,
+    "expected": "Tomato",
+    "fixture": "Tomato/image_1.jpg",
+    "predicted": "Tomato"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9980165,
+    "expected": "Turnip",
+    "fixture": "Turnip/image_1.jpg",
+    "predicted": "Turnip"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.28309992,
+    "expected": "Watermelon",
+    "fixture": "Watermelon/image_1.jpg",
+    "predicted": "Pomegranate"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.43792757,
+    "expected": "apple_pie",
+    "fixture": "apple_pie/1011328.jpg",
+    "predicted": "fish_and_chips"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.3478536,
+    "expected": "baby_back_ribs",
+    "fixture": "baby_back_ribs/1005066.jpg",
+    "predicted": "baby_back_ribs"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.7799408,
+    "expected": "baklava",
+    "fixture": "baklava/1028777.jpg",
+    "predicted": "baklava"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.57792854,
+    "expected": "beef_carpaccio",
+    "fixture": "beef_carpaccio/100853.jpg",
+    "predicted": "tuna_tartare"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.4573218,
+    "expected": "beef_tartare",
+    "fixture": "beef_tartare/101073.jpg",
+    "predicted": "tuna_tartare"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.49080902,
+    "expected": "beet_salad",
+    "fixture": "beet_salad/1014948.jpg",
+    "predicted": "beet_salad"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.39634836,
+    "expected": "beignets",
+    "fixture": "beignets/1002850.jpg",
+    "predicted": "beignets"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.58132774,
+    "expected": "bibimbap",
+    "fixture": "bibimbap/1001113.jpg",
+    "predicted": "bibimbap"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.20807795,
+    "expected": "bread_pudding",
+    "fixture": "bread_pudding/1005036.jpg",
+    "predicted": "bread_pudding"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.5357312,
+    "expected": "breakfast_burrito",
+    "fixture": "breakfast_burrito/1000920.jpg",
+    "predicted": "falafel"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.4670286,
+    "expected": "bruschetta",
+    "fixture": "bruschetta/1013211.jpg",
+    "predicted": "bruschetta"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.94714206,
+    "expected": "caesar_salad",
+    "fixture": "caesar_salad/1033867.jpg",
+    "predicted": "caesar_salad"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.39921376,
+    "expected": "cannoli",
+    "fixture": "cannoli/1087676.jpg",
+    "predicted": "chocolate_cake"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9796056,
+    "expected": "caprese_salad",
+    "fixture": "caprese_salad/1012384.jpg",
+    "predicted": "caprese_salad"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8104746,
+    "expected": "carrot_cake",
+    "fixture": "carrot_cake/1006961.jpg",
+    "predicted": "carrot_cake"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.52035415,
+    "expected": "ceviche",
+    "fixture": "ceviche/102574.jpg",
+    "predicted": "ceviche"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9227068,
+    "expected": "cheese_plate",
+    "fixture": "cheese_plate/1011471.jpg",
+    "predicted": "cheese_plate"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.77636516,
+    "expected": "cheesecake",
+    "fixture": "cheesecake/1023543.jpg",
+    "predicted": "cheesecake"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.61459357,
+    "expected": "chicken_curry",
+    "fixture": "chicken_curry/101833.jpg",
+    "predicted": "chicken_curry"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9648404,
+    "expected": "chicken_quesadilla",
+    "fixture": "chicken_quesadilla/10257.jpg",
+    "predicted": "chicken_quesadilla"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.97739166,
+    "expected": "chicken_wings",
+    "fixture": "chicken_wings/1010547.jpg",
+    "predicted": "chicken_wings"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.5626413,
+    "expected": "chocolate_cake",
+    "fixture": "chocolate_cake/1033790.jpg",
+    "predicted": "chocolate_cake"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.550527,
+    "expected": "chocolate_mousse",
+    "fixture": "chocolate_mousse/1002682.jpg",
+    "predicted": "chocolate_mousse"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.43137145,
+    "expected": "churros",
+    "fixture": "churros/1061830.jpg",
+    "predicted": "churros"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8905857,
+    "expected": "clam_chowder",
+    "fixture": "clam_chowder/1000873.jpg",
+    "predicted": "clam_chowder"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8992206,
+    "expected": "club_sandwich",
+    "fixture": "club_sandwich/1018254.jpg",
+    "predicted": "club_sandwich"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.19683354,
+    "expected": "crab_cakes",
+    "fixture": "crab_cakes/1003337.jpg",
+    "predicted": "beet_salad"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9992358,
+    "expected": "creme_brulee",
+    "fixture": "creme_brulee/1007951.jpg",
+    "predicted": "creme_brulee"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.5240627,
+    "expected": "croque_madame",
+    "fixture": "croque_madame/100467.jpg",
+    "predicted": "omelette"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.4200722,
+    "expected": "cup_cakes",
+    "fixture": "cup_cakes/1003128.jpg",
+    "predicted": "macarons"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9749042,
+    "expected": "deviled_eggs",
+    "fixture": "deviled_eggs/1005668.jpg",
+    "predicted": "deviled_eggs"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9948357,
+    "expected": "donuts",
+    "fixture": "donuts/1006079.jpg",
+    "predicted": "donuts"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999736,
+    "expected": "dumplings",
+    "fixture": "dumplings/1016850.jpg",
+    "predicted": "dumplings"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9918573,
+    "expected": "edamame",
+    "fixture": "edamame/1020848.jpg",
+    "predicted": "edamame"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9811626,
+    "expected": "eggs_benedict",
+    "fixture": "eggs_benedict/1013425.jpg",
+    "predicted": "eggs_benedict"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99096733,
+    "expected": "escargots",
+    "fixture": "escargots/1007283.jpg",
+    "predicted": "escargots"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.98461914,
+    "expected": "falafel",
+    "fixture": "falafel/102356.jpg",
+    "predicted": "falafel"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.71730095,
+    "expected": "filet_mignon",
+    "fixture": "filet_mignon/1023857.jpg",
+    "predicted": "filet_mignon"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99518925,
+    "expected": "fish_and_chips",
+    "fixture": "fish_and_chips/100703.jpg",
+    "predicted": "fish_and_chips"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.49044278,
+    "expected": "foie_gras",
+    "fixture": "foie_gras/1007306.jpg",
+    "predicted": "beet_salad"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9821358,
+    "expected": "french_fries",
+    "fixture": "french_fries/1008163.jpg",
+    "predicted": "french_fries"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.49368587,
+    "expected": "french_onion_soup",
+    "fixture": "french_onion_soup/1061776.jpg",
+    "predicted": "french_onion_soup"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.49566868,
+    "expected": "french_toast",
+    "fixture": "french_toast/100864.jpg",
+    "predicted": "french_toast"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9946634,
+    "expected": "fried_calamari",
+    "fixture": "fried_calamari/1007131.jpg",
+    "predicted": "fried_calamari"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.78210205,
+    "expected": "fried_rice",
+    "fixture": "fried_rice/1023430.jpg",
+    "predicted": "fried_rice"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.95640755,
+    "expected": "frozen_yogurt",
+    "fixture": "frozen_yogurt/1012504.jpg",
+    "predicted": "frozen_yogurt"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.16851121,
+    "expected": "garlic_bread",
+    "fixture": "garlic_bread/1002226.jpg",
+    "predicted": "foie_gras"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.71979654,
+    "expected": "gnocchi",
+    "fixture": "gnocchi/1005096.jpg",
+    "predicted": "macaroni_and_cheese"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.7758877,
+    "expected": "greek_salad",
+    "fixture": "greek_salad/1010850.jpg",
+    "predicted": "greek_salad"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.69186014,
+    "expected": "grilled_cheese_sandwich",
+    "fixture": "grilled_cheese_sandwich/1000938.jpg",
+    "predicted": "grilled_cheese_sandwich"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.5527326,
+    "expected": "grilled_salmon",
+    "fixture": "grilled_salmon/101087.jpg",
+    "predicted": "sashimi"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.77652603,
+    "expected": "guacamole",
+    "fixture": "guacamole/1002195.jpg",
+    "predicted": "ceviche"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99638146,
+    "expected": "gyoza",
+    "fixture": "gyoza/1009005.jpg",
+    "predicted": "gyoza"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.3698882,
+    "expected": "hamburger",
+    "fixture": "hamburger/1010136.jpg",
+    "predicted": "lobster_roll_sandwich"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9918096,
+    "expected": "hot_and_sour_soup",
+    "fixture": "hot_and_sour_soup/1000486.jpg",
+    "predicted": "hot_and_sour_soup"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99991226,
+    "expected": "hot_dog",
+    "fixture": "hot_dog/103364.jpg",
+    "predicted": "hot_dog"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.88251984,
+    "expected": "huevos_rancheros",
+    "fixture": "huevos_rancheros/1010595.jpg",
+    "predicted": "nachos"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9998585,
+    "expected": "hummus",
+    "fixture": "hummus/1015464.jpg",
+    "predicted": "hummus"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9597713,
+    "expected": "ice_cream",
+    "fixture": "ice_cream/1004744.jpg",
+    "predicted": "ice_cream"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.27608815,
+    "expected": "lasagna",
+    "fixture": "lasagna/1007859.jpg",
+    "predicted": "lasagna"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9878333,
+    "expected": "lobster_bisque",
+    "fixture": "lobster_bisque/1003421.jpg",
+    "predicted": "lobster_bisque"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8506467,
+    "expected": "lobster_roll_sandwich",
+    "fixture": "lobster_roll_sandwich/1002698.jpg",
+    "predicted": "lobster_roll_sandwich"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9304438,
+    "expected": "macaroni_and_cheese",
+    "fixture": "macaroni_and_cheese/1027098.jpg",
+    "predicted": "macaroni_and_cheese"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9848607,
+    "expected": "macarons",
+    "fixture": "macarons/1005656.jpg",
+    "predicted": "macarons"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.43166733,
+    "expected": "miso_soup",
+    "fixture": "miso_soup/1014272.jpg",
+    "predicted": "hot_and_sour_soup"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8280211,
+    "expected": "mussels",
+    "fixture": "mussels/1009170.jpg",
+    "predicted": "mussels"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.7465082,
+    "expected": "nachos",
+    "fixture": "nachos/1011831.jpg",
+    "predicted": "nachos"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.5199274,
+    "expected": "omelette",
+    "fixture": "omelette/1019294.jpg",
+    "predicted": "omelette"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8331535,
+    "expected": "onion_rings",
+    "fixture": "onion_rings/1008652.jpg",
+    "predicted": "onion_rings"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9999977,
+    "expected": "oysters",
+    "fixture": "oysters/1005672.jpg",
+    "predicted": "oysters"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.48535997,
+    "expected": "pad_thai",
+    "fixture": "pad_thai/1081901.jpg",
+    "predicted": "pad_thai"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8754621,
+    "expected": "paella",
+    "fixture": "paella/1019711.jpg",
+    "predicted": "paella"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9939025,
+    "expected": "pancakes",
+    "fixture": "pancakes/1006982.jpg",
+    "predicted": "pancakes"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.88795817,
+    "expected": "panna_cotta",
+    "fixture": "panna_cotta/1006650.jpg",
+    "predicted": "panna_cotta"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.14740974,
+    "expected": "peking_duck",
+    "fixture": "peking_duck/101156.jpg",
+    "predicted": "ravioli"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9729196,
+    "expected": "pho",
+    "fixture": "pho/1002382.jpg",
+    "predicted": "pho"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99946666,
+    "expected": "pizza",
+    "fixture": "pizza/1001116.jpg",
+    "predicted": "pizza"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.5228177,
+    "expected": "pork_chop",
+    "fixture": "pork_chop/1012227.jpg",
+    "predicted": "lasagna"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.7615989,
+    "expected": "poutine",
+    "fixture": "poutine/1000631.jpg",
+    "predicted": "poutine"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8400687,
+    "expected": "prime_rib",
+    "fixture": "prime_rib/1006976.jpg",
+    "predicted": "prime_rib"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.87228245,
+    "expected": "pulled_pork_sandwich",
+    "fixture": "pulled_pork_sandwich/1027491.jpg",
+    "predicted": "pulled_pork_sandwich"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.6611195,
+    "expected": "ramen",
+    "fixture": "ramen/1000325.jpg",
+    "predicted": "ramen"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.6611608,
+    "expected": "ravioli",
+    "fixture": "ravioli/100904.jpg",
+    "predicted": "huevos_rancheros"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.92319494,
+    "expected": "red_velvet_cake",
+    "fixture": "red_velvet_cake/1009744.jpg",
+    "predicted": "red_velvet_cake"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.27827358,
+    "expected": "risotto",
+    "fixture": "risotto/1004935.jpg",
+    "predicted": "pork_chop"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9996913,
+    "expected": "samosa",
+    "fixture": "samosa/1009326.jpg",
+    "predicted": "samosa"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.65584034,
+    "expected": "sashimi",
+    "fixture": "sashimi/100113.jpg",
+    "predicted": "sushi"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.24881029,
+    "expected": "scallops",
+    "fixture": "scallops/100757.jpg",
+    "predicted": "scallops"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.20760965,
+    "expected": "seaweed_salad",
+    "fixture": "seaweed_salad/1004774.jpg",
+    "predicted": "spring_rolls"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.29891682,
+    "expected": "shrimp_and_grits",
+    "fixture": "shrimp_and_grits/1011384.jpg",
+    "predicted": "shrimp_and_grits"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.9950134,
+    "expected": "spaghetti_bolognese",
+    "fixture": "spaghetti_bolognese/1027299.jpg",
+    "predicted": "spaghetti_bolognese"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.75105125,
+    "expected": "spaghetti_carbonara",
+    "fixture": "spaghetti_carbonara/1003992.jpg",
+    "predicted": "spaghetti_bolognese"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.99784666,
+    "expected": "spring_rolls",
+    "fixture": "spring_rolls/1005480.jpg",
+    "predicted": "spring_rolls"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.53410596,
+    "expected": "steak",
+    "fixture": "steak/100274.jpg",
+    "predicted": "filet_mignon"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.12877029,
+    "expected": "strawberry_shortcake",
+    "fixture": "strawberry_shortcake/101165.jpg",
+    "predicted": "strawberry_shortcake"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.8920101,
+    "expected": "sushi",
+    "fixture": "sushi/101625.jpg",
+    "predicted": "sushi"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.83803934,
+    "expected": "tacos",
+    "fixture": "tacos/1023947.jpg",
+    "predicted": "tacos"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.92815727,
+    "expected": "takoyaki",
+    "fixture": "takoyaki/1002013.jpg",
+    "predicted": "takoyaki"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.72672635,
+    "expected": "tiramisu",
+    "fixture": "tiramisu/1009109.jpg",
+    "predicted": "tiramisu"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.2595149,
+    "expected": "tuna_tartare",
+    "fixture": "tuna_tartare/1008604.jpg",
+    "predicted": "beef_carpaccio"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.98080367,
+    "expected": "waffles",
+    "fixture": "waffles/1005755.jpg",
+    "predicted": "waffles"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.27230254,
+    "fixture": "unsupported-blue-square",
+    "predicted": "Soy Beans"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.43093967,
+    "expected": "Banana",
+    "fixture": "Banana-EXIF-orientation-6",
+    "predicted": "Spinach"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.43141806,
+    "expected": "Banana",
+    "fixture": "Banana-normalized-rotation",
+    "predicted": "Spinach"
+  },
+  {
+    "candidateCount": 151,
+    "confidence": 0.44099057,
+    "expected": "Banana",
+    "fixture": "Banana-heavy-blur",
+    "predicted": "Pear"
+  }
+]

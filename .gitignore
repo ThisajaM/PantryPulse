@@ -5,3 +5,32 @@ xcuserdata/
 .env
 .env.*
 !.env.example
+# Ignore all Markdown files except the main README
+*.md
+!/README.md
+# Firebase emulator debug logs
+firestore-debug.log
+firebase-debug.log
+ui-debug.log
+# Keep food-recognition datasets locally
+/ml-training/food-recognition/Training/
+/ml-training/food-recognition/Testing/
+
+# Keep Create ML training projects locally
+*.mlproj
+
+# Ignore development logs
+firestore-debug.log
+firebase-debug.log
+ui-debug.log
+# Create ML training projects and generated checkpoints
+*.mlproj/
+
+# Food recognition training images
+/ml-training/food-recognition/Training/
+/ml-training/food-recognition/Testing/
+
+# Development logs
+firestore-debug.log
+firebase-debug.log
+ui-debug.log

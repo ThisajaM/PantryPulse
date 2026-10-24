@@ -1,0 +1,841 @@
+category,storageType,daysUntilExpiry,quantityValue,quantityUnit,historyEventCount,historicalWasteRate,riskLabel
+Dairy,Fridge,7,1.08,L,20,0.1500,Medium
+Vegetables,Fridge,3,6.00,pieces,0,0.0000,High
+Other,Pantry,5,7.00,pieces,0,0.0000,Medium
+Meat & Seafood,Fridge,3,681.41,g,8,0.2500,High
+Meat & Seafood,Freezer,10,1.60,kg,16,0.1875,Medium
+Meat & Seafood,Freezer,2,1.44,kg,7,0.0000,High
+Dairy,Fridge,94,875.91,g,22,0.5000,Low
+Other,Fridge,90,454.05,g,3,0.6667,Low
+Beverages,Pantry,3,745.71,ml,12,0.4167,High
+Fruits,Pantry,2,9.00,pieces,24,0.3333,High
+Beverages,Pantry,6,1181.08,ml,0,0.0000,Medium
+Vegetables,Pantry,52,6.00,pieces,5,0.0000,Low
+Fruits,Fridge,0,1.10,kg,1,0.0000,High
+Vegetables,Fridge,20,2.21,kg,0,0.0000,Medium
+Meat & Seafood,Freezer,1,0.40,kg,24,0.1667,High
+Beverages,Fridge,1,4.00,packs,3,0.6667,High
+Beverages,Pantry,31,2.49,L,6,0.8333,Low
+Beverages,Fridge,14,846.34,ml,3,0.6667,Low
+Bakery,Freezer,7,545.84,g,0,0.0000,Medium
+Bakery,Pantry,0,221.10,g,0,0.0000,High
+Beverages,Fridge,25,1.35,L,5,0.0000,Low
+Dairy,Freezer,7,228.27,g,16,0.4375,Low
+Fruits,Pantry,13,11.00,pieces,5,0.0000,Medium
+Dairy,Freezer,5,426.19,ml,22,0.1364,Medium
+Vegetables,Pantry,2,0.47,kg,21,0.8095,High
+Vegetables,Freezer,14,2.61,kg,2,0.5000,Medium
+Meat & Seafood,Fridge,21,1.95,kg,0,0.0000,Medium
+Grains & Pantry,Fridge,0,687.69,g,13,0.4615,High
+Dairy,Fridge,33,942.50,ml,29,0.0000,Low
+Dairy,Freezer,3,510.62,g,0,0.0000,Medium
+Vegetables,Pantry,6,1.09,kg,4,0.0000,Medium
+Grains & Pantry,Fridge,87,3.09,kg,20,0.0500,Low
+Beverages,Pantry,90,1192.63,ml,11,0.3636,Low
+Beverages,Fridge,73,6.00,packs,0,0.0000,Low
+Beverages,Fridge,22,405.12,ml,7,0.2857,Low
+Other,Freezer,7,3.00,packs,16,0.0000,Low
+Beverages,Pantry,3,3.00,packs,18,0.5556,High
+Vegetables,Freezer,60,7.00,pieces,12,0.2500,Low
+Fruits,Pantry,2,3.00,pieces,0,0.0000,Medium
+Fruits,Pantry,4,5.00,pieces,15,0.3333,Medium
+Grains & Pantry,Pantry,7,3.54,kg,11,0.1818,Medium
+Fruits,Fridge,0,9.00,pieces,1,1.0000,High
+Fruits,Pantry,2,7.00,pieces,0,0.0000,High
+Bakery,Freezer,21,1.00,pieces,0,0.0000,Low
+Other,Fridge,4,7.00,pieces,11,0.0909,Medium
+Vegetables,Pantry,3,1.63,kg,17,0.4706,High
+Grains & Pantry,Pantry,0,4.00,packs,12,0.0833,High
+Fruits,Fridge,4,0.38,kg,0,0.0000,Medium
+Beverages,Fridge,13,6.00,packs,9,0.3333,Medium
+Beverages,Fridge,7,1119.63,ml,25,0.0000,Medium
+Bakery,Freezer,4,755.38,g,22,0.1364,Medium
+Dairy,Fridge,3,843.40,ml,1,0.0000,High
+Meat & Seafood,Fridge,3,1.13,kg,27,0.3704,High
+Grains & Pantry,Pantry,4,3.00,packs,23,0.1304,Medium
+Beverages,Fridge,0,1.00,packs,28,0.3571,High
+Meat & Seafood,Fridge,2,0.43,kg,0,0.0000,High
+Fruits,Fridge,10,11.00,pieces,17,0.0588,Medium
+Vegetables,Fridge,3,7.00,pieces,29,0.3448,High
+Grains & Pantry,Pantry,0,528.48,g,2,0.0000,High
+Meat & Seafood,Fridge,3,549.20,g,1,1.0000,High
+Meat & Seafood,Fridge,5,258.25,g,12,0.3333,Medium
+Meat & Seafood,Freezer,6,0.34,kg,0,0.0000,Medium
+Vegetables,Pantry,6,3.00,pieces,0,0.0000,Medium
+Other,Pantry,3,421.25,g,19,0.0000,Medium
+Fruits,Pantry,58,5.00,pieces,13,0.2308,Low
+Vegetables,Pantry,6,10.00,pieces,3,0.3333,High
+Bakery,Fridge,1,8.00,pieces,29,0.1034,High
+Dairy,Freezer,54,449.23,ml,0,0.0000,Low
+Vegetables,Freezer,5,1.89,kg,0,0.0000,Medium
+Meat & Seafood,Freezer,3,801.62,g,22,0.2727,Medium
+Vegetables,Pantry,2,5.00,pieces,0,0.0000,High
+Beverages,Pantry,16,1247.04,ml,0,0.0000,Low
+Grains & Pantry,Fridge,69,1.85,kg,15,0.1333,Low
+Other,Pantry,45,4.00,pieces,18,0.0556,Low
+Grains & Pantry,Fridge,1,173.41,g,24,0.5000,High
+Other,Pantry,0,2.00,packs,3,0.0000,High
+Bakery,Fridge,120,725.21,g,0,0.0000,Low
+Beverages,Pantry,0,2.00,packs,22,0.2727,High
+Vegetables,Fridge,5,8.00,pieces,6,0.1667,Medium
+Fruits,Pantry,1,1.00,pieces,15,0.4667,High
+Other,Fridge,1,790.07,g,24,0.2500,High
+Vegetables,Pantry,1,1.89,kg,0,0.0000,High
+Dairy,Fridge,6,491.52,g,0,0.0000,Medium
+Vegetables,Freezer,1,6.00,pieces,0,0.0000,High
+Dairy,Fridge,7,805.76,g,1,0.0000,Medium
+Fruits,Pantry,3,1.44,kg,0,0.0000,High
+Fruits,Pantry,1,5.00,pieces,0,0.0000,High
+Dairy,Fridge,90,747.25,ml,25,0.3600,Low
+Dairy,Freezer,1,633.28,g,0,0.0000,High
+Meat & Seafood,Freezer,6,903.97,g,11,0.7273,Medium
+Bakery,Pantry,4,4.00,packs,27,0.1111,Medium
+Meat & Seafood,Fridge,74,346.42,g,3,0.0000,Low
+Other,Fridge,92,254.44,g,28,0.6071,Low
+Beverages,Pantry,56,311.52,ml,14,0.1429,Low
+Dairy,Fridge,4,704.99,g,8,0.5000,High
+Dairy,Freezer,30,1.39,L,3,0.0000,Low
+Bakery,Freezer,6,238.57,g,29,0.2759,Medium
+Fruits,Fridge,45,4.00,pieces,14,0.3571,Low
+Bakery,Fridge,21,6.00,pieces,8,0.0000,Low
+Other,Freezer,60,3.00,pieces,0,0.0000,Low
+Bakery,Pantry,22,657.26,g,0,0.0000,Medium
+Other,Fridge,100,5.00,pieces,18,0.4444,Low
+Fruits,Pantry,61,10.00,pieces,4,0.5000,Low
+Fruits,Fridge,18,0.95,kg,1,1.0000,Low
+Beverages,Fridge,0,1.12,L,24,0.2500,High
+Grains & Pantry,Fridge,0,2.00,packs,13,0.3077,High
+Other,Fridge,23,7.00,pieces,0,0.0000,Low
+Other,Freezer,3,183.78,g,0,0.0000,Medium
+Dairy,Fridge,111,688.60,ml,3,0.3333,Low
+Other,Fridge,5,5.00,packs,27,0.2222,Medium
+Bakery,Fridge,112,11.00,pieces,6,0.0000,Low
+Meat & Seafood,Fridge,10,349.58,g,1,0.0000,Medium
+Grains & Pantry,Fridge,0,831.70,g,16,0.1875,High
+Other,Pantry,45,2.00,packs,4,0.7500,Low
+Other,Freezer,59,547.84,g,19,0.2105,Low
+Fruits,Fridge,0,2.73,kg,26,0.1923,High
+Bakery,Fridge,3,253.19,g,13,0.3846,Medium
+Dairy,Freezer,79,321.42,ml,26,0.0385,Low
+Other,Freezer,6,497.63,g,0,0.0000,Medium
+Dairy,Fridge,10,1.58,L,0,0.0000,Medium
+Other,Pantry,3,4.00,packs,25,0.2000,High
+Bakery,Fridge,5,6.00,pieces,14,0.4286,High
+Dairy,Fridge,6,269.78,g,27,0.0741,Medium
+Grains & Pantry,Pantry,37,919.75,g,18,0.1111,Low
+Fruits,Pantry,1,2.57,kg,25,0.1600,High
+Bakery,Pantry,25,8.00,pieces,28,0.5000,Medium
+Meat & Seafood,Fridge,0,277.41,g,17,0.0000,High
+Fruits,Pantry,83,11.00,pieces,29,0.2759,Low
+Dairy,Fridge,7,352.58,ml,6,0.5000,Medium
+Meat & Seafood,Fridge,3,1.64,kg,0,0.0000,High
+Grains & Pantry,Fridge,7,470.32,g,0,0.0000,Medium
+Vegetables,Freezer,3,4.00,pieces,28,0.0357,Medium
+Meat & Seafood,Fridge,3,1.81,kg,0,0.0000,High
+Dairy,Fridge,45,899.02,ml,13,0.6154,Low
+Meat & Seafood,Freezer,4,484.01,g,10,0.5000,Medium
+Beverages,Fridge,7,3.00,packs,16,0.0000,Low
+Beverages,Pantry,60,1316.91,ml,22,0.1364,Low
+Grains & Pantry,Fridge,0,404.94,g,29,0.2069,High
+Grains & Pantry,Fridge,1,111.83,g,0,0.0000,High
+Dairy,Fridge,48,0.72,L,7,0.2857,Low
+Beverages,Pantry,0,2.47,L,14,0.2857,High
+Meat & Seafood,Freezer,14,257.85,g,30,0.1333,Low
+Meat & Seafood,Fridge,102,547.75,g,4,0.5000,Low
+Dairy,Fridge,1,217.07,ml,30,0.1000,High
+Fruits,Pantry,21,4.00,pieces,26,0.4615,Low
+Vegetables,Pantry,72,1.02,kg,5,0.4000,Low
+Bakery,Fridge,0,2.00,packs,0,0.0000,High
+Bakery,Fridge,21,582.91,g,28,0.3214,Medium
+Other,Freezer,6,4.00,packs,0,0.0000,Medium
+Other,Pantry,0,5.00,packs,0,0.0000,High
+Beverages,Fridge,104,4.00,packs,0,0.0000,Low
+Vegetables,Fridge,2,1.47,kg,15,0.0667,Medium
+Beverages,Fridge,49,5.00,packs,26,0.1538,Low
+Bakery,Freezer,14,1.00,packs,0,0.0000,Medium
+Bakery,Freezer,94,136.47,g,19,0.4737,Low
+Fruits,Pantry,3,2.08,kg,10,0.0000,High
+Grains & Pantry,Fridge,3,4.81,kg,9,0.1111,High
+Grains & Pantry,Fridge,0,4.00,packs,22,0.4545,High
+Grains & Pantry,Pantry,118,1.00,packs,17,0.0000,Low
+Grains & Pantry,Fridge,0,644.07,g,17,0.3529,High
+Beverages,Fridge,42,2.00,packs,11,0.0000,Low
+Other,Freezer,1,2.00,packs,17,0.2941,Medium
+Dairy,Freezer,90,819.76,g,26,0.1538,Low
+Grains & Pantry,Pantry,10,344.48,g,0,0.0000,Medium
+Fruits,Fridge,96,11.00,pieces,11,0.5455,Low
+Other,Freezer,1,720.94,g,15,0.0000,High
+Vegetables,Freezer,5,1.13,kg,30,0.1333,Medium
+Meat & Seafood,Fridge,6,0.34,kg,11,0.0909,Medium
+Beverages,Fridge,4,1.33,L,30,0.1667,Medium
+Meat & Seafood,Fridge,27,0.62,kg,0,0.0000,Low
+Vegetables,Fridge,1,2.00,pieces,14,0.1429,High
+Fruits,Pantry,55,11.00,pieces,9,0.3333,Low
+Vegetables,Fridge,1,2.78,kg,17,0.0000,High
+Meat & Seafood,Freezer,3,0.55,kg,22,0.4545,Medium
+Fruits,Pantry,86,11.00,pieces,0,0.0000,Low
+Fruits,Fridge,108,0.59,kg,18,0.3889,Low
+Meat & Seafood,Freezer,1,876.64,g,22,0.0909,High
+Bakery,Pantry,7,3.00,packs,9,0.0000,Medium
+Grains & Pantry,Pantry,4,4.09,kg,0,0.0000,Medium
+Bakery,Pantry,7,449.93,g,11,0.4545,Medium
+Grains & Pantry,Pantry,14,3.00,packs,0,0.0000,Medium
+Grains & Pantry,Fridge,112,4.45,kg,21,0.3333,Low
+Bakery,Fridge,14,3.00,packs,0,0.0000,Medium
+Grains & Pantry,Pantry,6,330.14,g,0,0.0000,Medium
+Other,Fridge,10,6.00,pieces,22,0.3636,Medium
+Bakery,Fridge,25,11.00,pieces,3,0.6667,Low
+Grains & Pantry,Pantry,30,2.97,kg,20,0.0000,Low
+Bakery,Freezer,1,682.67,g,28,0.3929,High
+Other,Fridge,4,3.00,packs,2,0.0000,Medium
+Vegetables,Fridge,90,0.25,kg,0,0.0000,Low
+Grains & Pantry,Pantry,3,2.61,kg,21,0.1429,Medium
+Other,Pantry,2,3.00,packs,30,0.2000,High
+Vegetables,Fridge,1,0.99,kg,0,0.0000,High
+Meat & Seafood,Freezer,2,1.79,kg,4,0.0000,Medium
+Vegetables,Fridge,0,9.00,pieces,27,0.1111,High
+Vegetables,Pantry,120,4.00,pieces,22,0.1364,Low
+Meat & Seafood,Freezer,19,772.97,g,0,0.0000,Low
+Bakery,Pantry,79,795.03,g,21,0.1905,Low
+Other,Pantry,97,253.68,g,10,0.4000,Low
+Beverages,Fridge,6,1281.34,ml,12,0.2500,Medium
+Vegetables,Fridge,3,2.09,kg,12,0.0000,Medium
+Bakery,Pantry,37,2.00,pieces,30,0.2000,Low
+Dairy,Freezer,1,482.77,g,20,0.3000,High
+Meat & Seafood,Fridge,5,1.98,kg,0,0.0000,Medium
+Other,Fridge,53,343.88,g,14,0.5714,Low
+Vegetables,Freezer,3,10.00,pieces,4,0.2500,High
+Dairy,Freezer,0,1.64,L,4,0.0000,High
+Beverages,Pantry,2,2.86,L,0,0.0000,High
+Dairy,Fridge,6,600.67,ml,25,0.2000,Medium
+Vegetables,Pantry,4,2.00,pieces,25,0.3600,Medium
+Bakery,Fridge,4,740.29,g,9,0.3333,High
+Vegetables,Fridge,2,0.52,kg,13,0.3077,High
+Fruits,Fridge,90,4.00,pieces,19,0.3684,Low
+Dairy,Fridge,4,1.64,L,28,0.6071,Medium
+Beverages,Pantry,120,447.98,ml,0,0.0000,Low
+Grains & Pantry,Pantry,0,260.68,g,0,0.0000,High
+Beverages,Pantry,0,3.00,packs,0,0.0000,High
+Fruits,Fridge,0,2.00,pieces,0,0.0000,High
+Vegetables,Pantry,1,1.22,kg,0,0.0000,High
+Fruits,Fridge,0,0.56,kg,0,0.0000,High
+Dairy,Fridge,110,0.70,L,0,0.0000,Low
+Other,Pantry,2,2.00,packs,14,0.3571,High
+Other,Freezer,0,7.00,pieces,23,0.3043,High
+Beverages,Pantry,65,4.00,packs,1,0.0000,Low
+Meat & Seafood,Freezer,30,0.49,kg,8,0.5000,Low
+Beverages,Fridge,7,6.00,packs,24,0.0000,Medium
+Dairy,Fridge,100,0.91,L,6,0.0000,Low
+Bakery,Pantry,23,2.00,packs,0,0.0000,Medium
+Grains & Pantry,Pantry,14,4.00,packs,4,0.0000,Medium
+Vegetables,Fridge,45,1.00,kg,18,0.1667,Low
+Fruits,Fridge,2,4.00,pieces,13,0.0000,Medium
+Bakery,Pantry,16,4.00,packs,18,0.3889,Medium
+Bakery,Fridge,14,7.00,pieces,0,0.0000,Medium
+Meat & Seafood,Fridge,117,1.37,kg,14,0.1429,Low
+Beverages,Fridge,2,1.96,L,28,0.1786,High
+Bakery,Pantry,21,799.11,g,0,0.0000,Medium
+Dairy,Freezer,66,877.84,g,21,0.5714,Low
+Fruits,Pantry,6,2.23,kg,8,0.2500,High
+Meat & Seafood,Freezer,2,1027.29,g,10,0.4000,High
+Other,Freezer,2,4.00,packs,24,0.2917,High
+Fruits,Pantry,1,10.00,pieces,10,0.0000,High
+Vegetables,Fridge,0,10.00,pieces,13,0.3846,High
+Vegetables,Fridge,7,5.00,pieces,22,0.1818,Medium
+Bakery,Fridge,1,430.86,g,2,1.0000,High
+Dairy,Fridge,5,1.66,L,0,0.0000,Medium
+Vegetables,Freezer,1,9.00,pieces,0,0.0000,High
+Other,Pantry,2,6.00,pieces,16,0.0625,Medium
+Other,Pantry,4,3.00,packs,3,0.0000,Medium
+Beverages,Pantry,45,0.57,L,19,0.1579,Low
+Other,Fridge,10,700.41,g,6,0.6667,Medium
+Beverages,Fridge,0,5.00,packs,7,0.0000,High
+Meat & Seafood,Freezer,74,919.00,g,0,0.0000,Low
+Vegetables,Freezer,0,4.00,pieces,8,0.2500,High
+Grains & Pantry,Pantry,7,963.20,g,7,0.2857,Medium
+Meat & Seafood,Fridge,7,0.74,kg,11,0.2727,Medium
+Bakery,Pantry,10,4.00,packs,19,0.2105,Medium
+Other,Freezer,3,723.37,g,5,0.8000,High
+Grains & Pantry,Pantry,0,3.81,kg,0,0.0000,High
+Vegetables,Pantry,2,1.57,kg,11,0.2727,High
+Beverages,Fridge,22,336.69,ml,12,0.0833,Low
+Grains & Pantry,Fridge,29,0.48,kg,0,0.0000,Low
+Meat & Seafood,Fridge,3,0.21,kg,17,0.4118,High
+Fruits,Pantry,6,2.16,kg,0,0.0000,High
+Fruits,Fridge,8,9.00,pieces,0,0.0000,Medium
+Fruits,Pantry,1,1.63,kg,0,0.0000,High
+Vegetables,Freezer,1,1.00,pieces,16,0.1250,High
+Grains & Pantry,Pantry,1,2.00,packs,0,0.0000,High
+Dairy,Fridge,6,309.27,ml,6,0.8333,Medium
+Meat & Seafood,Fridge,60,881.07,g,22,0.3182,Low
+Grains & Pantry,Fridge,21,932.27,g,28,0.3214,Low
+Beverages,Pantry,2,295.80,ml,8,0.3750,Medium
+Fruits,Pantry,73,2.73,kg,9,0.1111,Low
+Beverages,Pantry,9,1.01,L,29,0.2759,Medium
+Beverages,Fridge,14,216.69,ml,26,0.2692,Medium
+Other,Fridge,38,796.21,g,23,0.7826,Low
+Other,Fridge,0,3.00,packs,0,0.0000,High
+Grains & Pantry,Fridge,14,670.66,g,1,0.0000,Medium
+Beverages,Fridge,1,1274.20,ml,14,0.1429,High
+Meat & Seafood,Fridge,2,1.26,kg,30,0.1333,High
+Grains & Pantry,Fridge,4,2.00,packs,1,1.0000,Medium
+Fruits,Fridge,0,0.36,kg,0,0.0000,High
+Grains & Pantry,Pantry,112,314.46,g,12,0.4167,Low
+Fruits,Fridge,0,1.00,pieces,7,0.2857,High
+Fruits,Pantry,45,2.40,kg,8,0.1250,Low
+Fruits,Fridge,0,3.00,pieces,19,0.1053,High
+Beverages,Fridge,3,0.55,L,30,0.4000,Medium
+Fruits,Pantry,10,1.56,kg,0,0.0000,Medium
+Beverages,Pantry,0,2.00,packs,5,0.4000,High
+Other,Fridge,1,7.00,pieces,6,0.3333,High
+Bakery,Freezer,1,652.96,g,0,0.0000,High
+Vegetables,Fridge,1,2.20,kg,0,0.0000,High
+Meat & Seafood,Freezer,4,1.23,kg,0,0.0000,Medium
+Vegetables,Pantry,10,2.01,kg,15,0.0000,Medium
+Beverages,Pantry,1,738.30,ml,0,0.0000,High
+Fruits,Fridge,9,4.00,pieces,26,0.0769,Medium
+Bakery,Fridge,2,704.66,g,17,0.0588,High
+Fruits,Pantry,115,4.00,pieces,0,0.0000,Low
+Dairy,Fridge,0,926.42,ml,10,0.4000,High
+Grains & Pantry,Pantry,13,4.39,kg,30,0.2000,Medium
+Dairy,Fridge,7,934.18,ml,10,0.4000,Medium
+Vegetables,Fridge,1,3.00,pieces,6,0.3333,High
+Dairy,Freezer,32,222.37,ml,0,0.0000,Low
+Other,Freezer,119,4.00,packs,3,0.3333,Low
+Beverages,Pantry,7,789.39,ml,0,0.0000,Medium
+Bakery,Freezer,108,287.28,g,10,0.2000,Low
+Vegetables,Freezer,1,1.13,kg,19,0.1579,High
+Fruits,Fridge,1,6.00,pieces,13,0.3846,High
+Grains & Pantry,Pantry,29,111.75,g,0,0.0000,Low
+Dairy,Freezer,77,1.98,L,19,0.3684,Low
+Dairy,Fridge,0,837.68,ml,20,0.1000,High
+Other,Freezer,90,177.83,g,1,1.0000,Low
+Beverages,Pantry,0,0.78,L,19,0.0000,High
+Bakery,Fridge,2,7.00,pieces,0,0.0000,High
+Bakery,Freezer,4,2.00,packs,25,0.3200,Medium
+Grains & Pantry,Pantry,14,171.61,g,11,0.4545,Low
+Other,Pantry,81,2.00,pieces,24,0.4167,Low
+Fruits,Pantry,90,3.00,pieces,0,0.0000,Low
+Beverages,Pantry,1,2.03,L,8,0.7500,High
+Dairy,Fridge,2,900.20,ml,0,0.0000,High
+Grains & Pantry,Pantry,102,0.50,kg,11,0.3636,Low
+Meat & Seafood,Freezer,0,957.85,g,17,0.0000,High
+Other,Pantry,19,1.00,packs,1,0.0000,Low
+Dairy,Freezer,2,410.51,g,17,0.1765,Medium
+Vegetables,Freezer,90,2.00,pieces,8,0.1250,Low
+Bakery,Pantry,30,2.00,packs,13,0.5385,Medium
+Vegetables,Pantry,116,7.00,pieces,3,0.6667,Low
+Meat & Seafood,Fridge,6,548.86,g,0,0.0000,Medium
+Bakery,Pantry,7,239.31,g,28,0.3571,Medium
+Bakery,Freezer,20,251.29,g,27,0.0741,Low
+Meat & Seafood,Fridge,4,576.61,g,16,0.1875,Medium
+Bakery,Pantry,15,10.00,pieces,10,0.2000,Medium
+Beverages,Fridge,7,260.00,ml,11,0.1818,Low
+Vegetables,Pantry,21,9.00,pieces,25,0.1200,Medium
+Other,Pantry,4,804.86,g,22,0.0000,High
+Other,Pantry,1,137.04,g,0,0.0000,High
+Grains & Pantry,Pantry,60,190.36,g,19,0.0526,Low
+Bakery,Freezer,87,535.01,g,11,0.1818,Low
+Other,Fridge,111,6.00,pieces,12,0.5833,Low
+Beverages,Pantry,54,2.76,L,0,0.0000,Low
+Bakery,Fridge,6,4.00,packs,29,0.1724,High
+Beverages,Pantry,6,2.64,L,29,0.1379,Medium
+Fruits,Pantry,14,0.51,kg,0,0.0000,Medium
+Meat & Seafood,Freezer,10,311.81,g,20,0.1000,Low
+Other,Fridge,14,4.00,packs,6,0.1667,Medium
+Bakery,Pantry,3,9.00,pieces,8,0.0000,High
+Fruits,Fridge,5,5.00,pieces,0,0.0000,Medium
+Vegetables,Fridge,1,6.00,pieces,23,0.0435,High
+Other,Pantry,0,5.00,pieces,24,0.2083,High
+Meat & Seafood,Fridge,28,0.64,kg,16,0.3750,Low
+Beverages,Fridge,76,2.46,L,0,0.0000,Low
+Meat & Seafood,Fridge,5,0.42,kg,0,0.0000,Medium
+Meat & Seafood,Fridge,21,224.58,g,17,0.1176,Low
+Beverages,Pantry,7,0.86,L,29,0.2069,Low
+Beverages,Pantry,4,4.00,packs,19,0.3158,Medium
+Grains & Pantry,Pantry,120,403.80,g,6,0.0000,Low
+Dairy,Fridge,21,632.44,g,0,0.0000,Medium
+Meat & Seafood,Freezer,30,1.69,kg,0,0.0000,Low
+Meat & Seafood,Freezer,1,1.71,kg,21,0.0000,High
+Beverages,Pantry,6,3.00,packs,11,0.3636,Medium
+Dairy,Fridge,119,226.13,ml,28,0.1429,Low
+Vegetables,Freezer,5,0.56,kg,0,0.0000,Medium
+Vegetables,Fridge,14,2.68,kg,21,0.1429,Medium
+Vegetables,Fridge,8,1.09,kg,3,0.0000,Medium
+Grains & Pantry,Fridge,1,114.12,g,20,0.0500,High
+Beverages,Pantry,84,3.00,packs,13,0.0769,Low
+Grains & Pantry,Fridge,3,4.47,kg,25,0.1600,Medium
+Meat & Seafood,Fridge,0,1062.49,g,23,0.0435,High
+Fruits,Fridge,1,0.65,kg,9,0.1111,High
+Fruits,Fridge,105,0.81,kg,0,0.0000,Low
+Beverages,Fridge,12,1415.74,ml,0,0.0000,Medium
+Vegetables,Fridge,1,2.00,pieces,15,0.0667,High
+Vegetables,Freezer,0,1.69,kg,1,1.0000,High
+Other,Fridge,2,4.00,packs,24,0.0417,High
+Other,Freezer,3,2.00,pieces,27,0.3333,Medium
+Grains & Pantry,Fridge,3,1.21,kg,12,0.3333,Medium
+Fruits,Pantry,3,6.00,pieces,6,0.1667,High
+Other,Pantry,7,6.00,pieces,12,0.4167,Medium
+Other,Fridge,4,4.00,packs,5,0.0000,Medium
+Meat & Seafood,Fridge,2,1036.05,g,0,0.0000,High
+Other,Fridge,71,5.00,packs,16,0.3125,Low
+Grains & Pantry,Pantry,1,583.92,g,24,0.1667,High
+Dairy,Freezer,6,814.20,ml,5,0.4000,Medium
+Bakery,Pantry,2,2.00,packs,24,0.2083,High
+Dairy,Fridge,1,570.86,ml,1,0.0000,High
+Dairy,Fridge,7,157.57,g,13,0.2308,Low
+Meat & Seafood,Freezer,6,710.87,g,8,0.1250,Medium
+Other,Freezer,0,4.00,packs,0,0.0000,High
+Fruits,Fridge,63,2.00,pieces,19,0.2105,Low
+Dairy,Freezer,3,584.17,ml,16,0.1875,Medium
+Bakery,Pantry,0,11.00,pieces,27,0.0741,High
+Meat & Seafood,Fridge,1,0.22,kg,30,0.4000,High
+Vegetables,Pantry,45,0.76,kg,29,0.2069,Low
+Fruits,Fridge,2,2.56,kg,13,0.1538,High
+Vegetables,Pantry,29,5.00,pieces,18,0.1667,Low
+Meat & Seafood,Freezer,0,0.32,kg,8,0.3750,High
+Beverages,Pantry,82,1398.26,ml,30,0.0333,Low
+Bakery,Freezer,2,3.00,packs,12,0.5833,High
+Grains & Pantry,Fridge,7,208.05,g,0,0.0000,Low
+Vegetables,Pantry,10,1.00,pieces,0,0.0000,Medium
+Beverages,Pantry,27,512.17,ml,3,0.3333,Low
+Vegetables,Freezer,2,5.00,pieces,19,0.1579,Medium
+Beverages,Fridge,46,467.57,ml,2,0.5000,Low
+Other,Freezer,46,1.00,packs,27,0.2963,Low
+Bakery,Freezer,41,688.77,g,29,0.2069,Low
+Vegetables,Fridge,3,2.35,kg,0,0.0000,Medium
+Fruits,Fridge,3,9.00,pieces,17,0.0588,High
+Dairy,Freezer,60,579.13,g,22,0.5909,Low
+Fruits,Fridge,10,1.21,kg,0,0.0000,Medium
+Bakery,Freezer,10,8.00,pieces,11,0.5455,Medium
+Beverages,Fridge,5,5.00,packs,18,0.0556,Medium
+Grains & Pantry,Fridge,1,3.00,packs,12,0.4167,High
+Dairy,Freezer,72,633.46,ml,0,0.0000,Low
+Dairy,Freezer,4,512.36,g,0,0.0000,Medium
+Vegetables,Freezer,107,5.00,pieces,14,0.2143,Low
+Beverages,Pantry,5,4.00,packs,9,0.0000,Medium
+Fruits,Pantry,55,1.00,pieces,2,0.0000,Low
+Grains & Pantry,Pantry,60,3.00,packs,6,0.1667,Low
+Bakery,Fridge,18,588.62,g,30,0.0333,Medium
+Vegetables,Fridge,2,8.00,pieces,2,0.5000,High
+Bakery,Fridge,0,461.39,g,4,0.0000,High
+Meat & Seafood,Freezer,2,193.27,g,13,0.1538,Medium
+Beverages,Pantry,2,705.94,ml,2,0.0000,High
+Other,Fridge,45,2.00,pieces,0,0.0000,Low
+Bakery,Pantry,83,3.00,packs,12,0.1667,Low
+Vegetables,Freezer,3,4.00,pieces,21,0.5238,Medium
+Vegetables,Freezer,1,0.76,kg,10,0.1000,High
+Dairy,Fridge,90,652.97,ml,18,0.0556,Low
+Bakery,Freezer,5,5.00,pieces,9,0.2222,Medium
+Fruits,Pantry,6,11.00,pieces,16,0.6250,High
+Dairy,Fridge,1,887.96,ml,19,0.2105,High
+Bakery,Pantry,3,468.48,g,15,0.2667,High
+Bakery,Pantry,12,2.00,pieces,0,0.0000,Medium
+Bakery,Pantry,2,752.15,g,24,0.1250,High
+Vegetables,Freezer,2,7.00,pieces,0,0.0000,Medium
+Bakery,Freezer,1,11.00,pieces,9,0.1111,High
+Fruits,Pantry,6,2.86,kg,21,0.1429,Medium
+Beverages,Pantry,11,333.61,ml,0,0.0000,Medium
+Meat & Seafood,Freezer,45,1.05,kg,12,0.0000,Low
+Grains & Pantry,Fridge,7,900.13,g,0,0.0000,Medium
+Beverages,Fridge,14,4.00,packs,16,0.1875,Medium
+Fruits,Pantry,5,0.95,kg,29,0.4483,High
+Grains & Pantry,Pantry,1,195.63,g,21,0.0952,High
+Bakery,Fridge,5,150.87,g,20,0.3000,Medium
+Bakery,Fridge,7,3.00,packs,28,0.2143,Medium
+Beverages,Fridge,0,1.23,L,22,0.4091,High
+Other,Fridge,45,631.23,g,18,0.3889,Low
+Grains & Pantry,Pantry,90,2.00,packs,17,0.0588,Low
+Dairy,Fridge,80,423.75,ml,0,0.0000,Low
+Fruits,Pantry,6,11.00,pieces,0,0.0000,Medium
+Grains & Pantry,Pantry,6,2.92,kg,1,0.0000,Medium
+Beverages,Pantry,14,1.00,packs,16,0.4375,Low
+Beverages,Fridge,13,258.82,ml,12,0.4167,Low
+Dairy,Freezer,5,957.81,ml,0,0.0000,Medium
+Vegetables,Pantry,14,0.35,kg,7,0.4286,Medium
+Other,Pantry,4,2.00,pieces,0,0.0000,Medium
+Vegetables,Pantry,0,1.57,kg,4,0.0000,High
+Beverages,Fridge,4,785.53,ml,21,0.2381,Medium
+Grains & Pantry,Pantry,16,0.72,kg,20,0.0500,Low
+Bakery,Pantry,6,621.98,g,7,0.1429,High
+Fruits,Fridge,117,5.00,pieces,8,0.3750,Low
+Fruits,Pantry,47,3.00,pieces,16,0.1250,Low
+Other,Fridge,117,2.00,pieces,8,0.0000,Low
+Other,Pantry,67,7.00,pieces,24,0.4167,Low
+Dairy,Fridge,92,0.64,L,15,0.0667,Low
+Dairy,Freezer,90,1.59,L,10,0.4000,Low
+Bakery,Freezer,1,5.00,pieces,0,0.0000,High
+Vegetables,Freezer,3,9.00,pieces,5,0.0000,Medium
+Beverages,Fridge,90,1.28,L,24,0.2500,Low
+Grains & Pantry,Pantry,120,3.00,packs,5,0.2000,Low
+Bakery,Freezer,4,11.00,pieces,3,0.0000,Medium
+Bakery,Fridge,35,602.35,g,0,0.0000,Low
+Grains & Pantry,Fridge,30,2.45,kg,30,0.7000,Low
+Bakery,Pantry,30,535.14,g,14,0.3571,Medium
+Grains & Pantry,Fridge,3,2.00,packs,23,0.6522,High
+Vegetables,Fridge,6,4.00,pieces,0,0.0000,Medium
+Meat & Seafood,Fridge,4,554.34,g,19,0.4211,High
+Fruits,Fridge,0,0.34,kg,14,0.2143,High
+Fruits,Fridge,10,2.95,kg,15,0.6000,High
+Vegetables,Pantry,7,9.00,pieces,18,0.0556,Medium
+Beverages,Fridge,0,859.95,ml,27,0.1481,High
+Beverages,Fridge,35,2.41,L,0,0.0000,Low
+Beverages,Fridge,3,1.21,L,0,0.0000,Medium
+Grains & Pantry,Fridge,0,455.44,g,26,0.0385,High
+Meat & Seafood,Freezer,90,0.73,kg,28,0.3214,Low
+Dairy,Fridge,4,702.62,g,0,0.0000,Medium
+Bakery,Freezer,3,8.00,pieces,5,0.0000,Medium
+Beverages,Pantry,79,4.00,packs,6,0.3333,Low
+Other,Fridge,90,4.00,pieces,0,0.0000,Low
+Vegetables,Fridge,2,1.81,kg,1,0.0000,High
+Meat & Seafood,Freezer,74,0.98,kg,20,0.2500,Low
+Meat & Seafood,Freezer,52,1.97,kg,14,0.5000,Low
+Grains & Pantry,Fridge,90,1.67,kg,0,0.0000,Low
+Dairy,Freezer,4,218.04,g,23,0.1304,Medium
+Meat & Seafood,Freezer,0,627.79,g,0,0.0000,High
+Dairy,Fridge,10,1.70,L,25,0.5200,Medium
+Bakery,Fridge,7,6.00,pieces,27,0.4815,Medium
+Beverages,Pantry,0,293.52,ml,8,0.2500,High
+Beverages,Pantry,24,1483.02,ml,22,0.4545,Medium
+Other,Pantry,37,6.00,pieces,4,0.2500,Low
+Meat & Seafood,Freezer,0,580.04,g,14,0.4286,High
+Bakery,Fridge,23,2.00,pieces,0,0.0000,Low
+Bakery,Pantry,56,2.00,packs,2,0.0000,Low
+Beverages,Pantry,2,1.48,L,15,0.2667,High
+Beverages,Pantry,2,573.59,ml,13,0.8462,High
+Meat & Seafood,Fridge,3,1054.06,g,5,0.2000,High
+Bakery,Pantry,27,8.00,pieces,4,0.5000,Medium
+Beverages,Pantry,0,3.00,packs,9,0.0000,High
+Grains & Pantry,Pantry,86,149.95,g,4,0.5000,Low
+Fruits,Pantry,103,4.00,pieces,8,0.0000,Low
+Other,Freezer,0,7.00,pieces,0,0.0000,High
+Bakery,Pantry,23,3.00,packs,0,0.0000,Medium
+Dairy,Freezer,6,363.17,ml,13,0.1538,Medium
+Other,Pantry,4,629.42,g,4,0.0000,Medium
+Meat & Seafood,Freezer,30,0.28,kg,16,0.1875,Low
+Grains & Pantry,Fridge,4,155.43,g,24,0.1250,Low
+Other,Pantry,30,5.00,pieces,0,0.0000,Low
+Other,Fridge,96,504.63,g,24,0.5833,Low
+Other,Fridge,4,7.00,pieces,19,0.0000,Medium
+Meat & Seafood,Fridge,4,220.53,g,9,0.3333,Medium
+Fruits,Pantry,1,1.99,kg,20,0.0500,High
+Dairy,Fridge,60,1.06,L,30,0.5333,Low
+Meat & Seafood,Fridge,0,1.42,kg,0,0.0000,High
+Bakery,Pantry,7,3.00,packs,0,0.0000,Medium
+Fruits,Fridge,45,1.81,kg,23,0.1304,Low
+Vegetables,Freezer,0,1.78,kg,1,0.0000,High
+Other,Pantry,1,390.44,g,10,0.5000,High
+Dairy,Freezer,0,689.70,g,4,0.2500,High
+Dairy,Freezer,36,1.42,L,0,0.0000,Low
+Other,Freezer,0,4.00,packs,6,0.1667,High
+Fruits,Pantry,3,2.63,kg,0,0.0000,High
+Meat & Seafood,Fridge,21,0.90,kg,5,0.4000,Medium
+Grains & Pantry,Pantry,6,440.75,g,0,0.0000,Medium
+Beverages,Pantry,2,4.00,packs,27,0.1111,High
+Other,Freezer,4,861.31,g,13,0.1538,Medium
+Beverages,Pantry,1,1.00,packs,11,0.0909,High
+Grains & Pantry,Fridge,1,3.00,packs,0,0.0000,High
+Meat & Seafood,Freezer,7,465.87,g,20,0.3000,Medium
+Beverages,Fridge,0,1236.98,ml,0,0.0000,High
+Beverages,Fridge,2,791.85,ml,5,0.2000,High
+Bakery,Pantry,5,3.00,packs,20,0.4500,Medium
+Grains & Pantry,Fridge,60,4.46,kg,0,0.0000,Low
+Meat & Seafood,Freezer,7,0.61,kg,27,0.2222,Low
+Vegetables,Fridge,6,1.65,kg,27,0.1481,Medium
+Beverages,Pantry,10,4.00,packs,5,0.2000,Medium
+Fruits,Fridge,62,12.00,pieces,8,0.6250,Low
+Other,Pantry,3,390.47,g,28,0.1786,High
+Bakery,Fridge,2,1.00,packs,21,0.2381,High
+Fruits,Pantry,14,3.00,pieces,13,0.5385,Medium
+Dairy,Freezer,0,757.86,ml,23,0.0870,High
+Grains & Pantry,Fridge,106,4.92,kg,0,0.0000,Low
+Grains & Pantry,Fridge,53,1.86,kg,0,0.0000,Low
+Fruits,Fridge,12,1.77,kg,22,0.0455,Medium
+Meat & Seafood,Fridge,21,679.60,g,10,0.2000,Medium
+Dairy,Freezer,6,947.16,ml,8,0.6250,Medium
+Fruits,Fridge,30,1.59,kg,28,0.5357,Medium
+Other,Fridge,83,652.85,g,22,0.0909,Low
+Grains & Pantry,Pantry,3,3.00,packs,0,0.0000,High
+Meat & Seafood,Fridge,80,1.81,kg,0,0.0000,Low
+Fruits,Fridge,14,9.00,pieces,20,0.1500,Medium
+Fruits,Pantry,2,2.37,kg,0,0.0000,High
+Meat & Seafood,Fridge,45,1090.95,g,8,0.5000,Low
+Meat & Seafood,Fridge,6,1060.28,g,3,0.3333,High
+Beverages,Fridge,92,4.00,packs,2,0.0000,Low
+Other,Freezer,28,5.00,pieces,18,0.0556,Low
+Bakery,Pantry,0,2.00,packs,0,0.0000,High
+Bakery,Freezer,69,8.00,pieces,25,0.0400,Low
+Dairy,Fridge,40,0.28,L,20,0.4000,Low
+Other,Pantry,28,8.00,pieces,0,0.0000,Medium
+Fruits,Fridge,0,7.00,pieces,10,0.2000,High
+Grains & Pantry,Pantry,1,349.82,g,21,0.0952,High
+Beverages,Pantry,45,3.00,packs,3,0.0000,Low
+Beverages,Pantry,10,3.00,packs,29,0.1724,Medium
+Fruits,Pantry,5,10.00,pieces,3,0.3333,High
+Bakery,Pantry,0,421.09,g,9,0.2222,High
+Vegetables,Pantry,35,8.00,pieces,23,0.3478,Low
+Other,Fridge,0,4.00,packs,7,0.4286,High
+Meat & Seafood,Fridge,4,373.14,g,21,0.0476,Medium
+Beverages,Pantry,3,1.83,L,17,0.1765,High
+Meat & Seafood,Fridge,15,665.21,g,20,0.0000,Low
+Other,Freezer,88,7.00,pieces,4,0.0000,Low
+Bakery,Freezer,120,516.28,g,14,0.0000,Low
+Vegetables,Pantry,5,2.38,kg,0,0.0000,High
+Beverages,Fridge,100,1010.70,ml,3,0.0000,Low
+Beverages,Pantry,5,2.57,L,13,0.1538,Medium
+Fruits,Fridge,14,5.00,pieces,4,0.5000,Medium
+Fruits,Fridge,14,9.00,pieces,0,0.0000,Medium
+Other,Pantry,3,5.00,packs,13,0.2308,High
+Other,Freezer,1,4.00,pieces,8,0.3750,High
+Meat & Seafood,Freezer,58,598.00,g,18,0.4444,Low
+Bakery,Fridge,3,3.00,packs,4,0.2500,High
+Dairy,Freezer,6,648.99,ml,3,0.6667,Medium
+Fruits,Pantry,2,4.00,pieces,16,0.4375,High
+Other,Fridge,4,149.65,g,30,0.1333,Medium
+Grains & Pantry,Pantry,14,4.22,kg,13,0.3077,Medium
+Grains & Pantry,Pantry,1,4.00,packs,0,0.0000,High
+Vegetables,Fridge,5,1.13,kg,0,0.0000,Medium
+Beverages,Fridge,5,1325.64,ml,6,0.5000,Medium
+Beverages,Fridge,4,2.53,L,29,0.0690,Medium
+Bakery,Pantry,2,729.39,g,27,0.7037,High
+Beverages,Pantry,117,1224.48,ml,0,0.0000,Low
+Beverages,Fridge,90,5.00,packs,15,0.0667,Low
+Bakery,Fridge,2,3.00,packs,0,0.0000,High
+Grains & Pantry,Pantry,5,2.00,packs,5,0.0000,Medium
+Beverages,Pantry,115,1.00,packs,20,0.1000,Low
+Vegetables,Fridge,0,2.00,pieces,16,0.3750,High
+Bakery,Fridge,4,2.00,packs,15,0.5333,High
+Grains & Pantry,Pantry,5,5.00,kg,4,0.2500,Medium
+Grains & Pantry,Fridge,0,3.39,kg,0,0.0000,High
+Vegetables,Fridge,5,7.00,pieces,25,0.4400,High
+Meat & Seafood,Freezer,4,0.69,kg,0,0.0000,Medium
+Other,Fridge,4,881.58,g,15,0.4000,Medium
+Bakery,Pantry,3,8.00,pieces,0,0.0000,High
+Vegetables,Pantry,26,4.00,pieces,13,0.1538,Medium
+Beverages,Pantry,21,1407.05,ml,6,0.1667,Medium
+Beverages,Fridge,3,806.07,ml,0,0.0000,Medium
+Vegetables,Freezer,2,1.92,kg,7,0.2857,High
+Bakery,Fridge,113,558.80,g,0,0.0000,Low
+Vegetables,Fridge,7,2.80,kg,26,0.6154,Medium
+Fruits,Pantry,5,7.00,pieces,16,0.3125,Medium
+Meat & Seafood,Fridge,5,1.36,kg,29,0.2759,High
+Other,Freezer,0,3.00,packs,25,0.0000,High
+Dairy,Fridge,91,1.70,L,0,0.0000,Low
+Other,Pantry,88,605.51,g,8,0.1250,Low
+Dairy,Fridge,97,0.71,L,29,0.5517,Low
+Other,Freezer,1,1.00,packs,19,0.1579,High
+Dairy,Fridge,58,0.39,L,6,0.0000,Low
+Dairy,Freezer,4,0.55,L,21,0.0476,Medium
+Other,Pantry,120,3.00,pieces,28,0.0357,Low
+Meat & Seafood,Fridge,0,1.75,kg,23,0.0435,High
+Vegetables,Freezer,7,8.00,pieces,5,0.4000,Medium
+Vegetables,Freezer,10,2.65,kg,29,0.1034,Medium
+Meat & Seafood,Freezer,22,166.10,g,0,0.0000,Low
+Bakery,Fridge,7,2.00,packs,10,0.1000,Medium
+Bakery,Pantry,90,8.00,pieces,0,0.0000,Low
+Beverages,Pantry,3,2.25,L,12,0.3333,High
+Beverages,Pantry,1,2.77,L,21,0.0476,High
+Beverages,Fridge,21,2.00,packs,25,0.4000,Low
+Dairy,Fridge,6,338.00,ml,19,0.5263,High
+Meat & Seafood,Fridge,1,0.65,kg,20,0.5500,High
+Grains & Pantry,Pantry,1,1.00,packs,0,0.0000,High
+Dairy,Freezer,6,715.70,ml,8,0.3750,Medium
+Beverages,Fridge,115,2.00,packs,14,0.0714,Low
+Bakery,Freezer,0,3.00,packs,5,0.2000,High
+Meat & Seafood,Fridge,117,0.82,kg,8,0.2500,Low
+Beverages,Fridge,0,0.51,L,0,0.0000,High
+Bakery,Fridge,29,711.75,g,0,0.0000,Medium
+Bakery,Fridge,3,2.00,packs,0,0.0000,High
+Fruits,Pantry,74,2.00,pieces,9,0.3333,Low
+Vegetables,Pantry,10,8.00,pieces,0,0.0000,Medium
+Beverages,Fridge,2,1137.27,ml,0,0.0000,Medium
+Fruits,Fridge,81,1.00,pieces,2,0.0000,Low
+Bakery,Pantry,45,3.00,pieces,5,0.0000,Low
+Bakery,Pantry,0,3.00,pieces,6,0.0000,High
+Dairy,Fridge,1,810.69,ml,4,0.0000,High
+Grains & Pantry,Fridge,6,3.16,kg,0,0.0000,Medium
+Dairy,Fridge,60,882.76,ml,5,0.2000,Low
+Grains & Pantry,Pantry,90,1.00,packs,24,0.0417,Low
+Fruits,Pantry,23,1.00,pieces,0,0.0000,Low
+Bakery,Pantry,57,2.00,packs,0,0.0000,Low
+Beverages,Pantry,1,1.80,L,16,0.2500,High
+Vegetables,Freezer,59,7.00,pieces,29,0.0690,Low
+Grains & Pantry,Fridge,5,2.00,packs,19,0.3684,Medium
+Grains & Pantry,Fridge,1,2.00,packs,24,0.1250,High
+Dairy,Fridge,5,358.55,g,20,0.2000,Medium
+Other,Pantry,6,2.00,pieces,21,0.3333,Medium
+Bakery,Fridge,2,6.00,pieces,19,0.0526,Medium
+Other,Pantry,3,2.00,pieces,19,0.0526,Medium
+Beverages,Fridge,14,2.72,L,2,0.5000,Medium
+Other,Pantry,90,832.63,g,10,0.3000,Low
+Vegetables,Freezer,96,4.00,pieces,13,0.2308,Low
+Fruits,Pantry,59,1.20,kg,21,0.0952,Low
+Bakery,Pantry,0,2.00,packs,6,0.6667,High
+Vegetables,Pantry,3,0.61,kg,2,0.5000,High
+Other,Fridge,2,5.00,pieces,12,0.0000,Medium
+Vegetables,Fridge,2,2.41,kg,2,0.0000,High
+Fruits,Pantry,5,2.12,kg,7,0.5714,Medium
+Vegetables,Pantry,14,9.00,pieces,18,0.0000,Medium
+Vegetables,Pantry,4,0.17,kg,17,0.0000,Medium
+Dairy,Freezer,80,1.18,L,1,0.0000,Low
+Meat & Seafood,Fridge,2,421.01,g,10,0.4000,High
+Other,Pantry,45,624.64,g,26,0.2308,Low
+Dairy,Freezer,3,624.60,g,0,0.0000,High
+Bakery,Pantry,2,183.50,g,9,0.2222,Medium
+Vegetables,Pantry,3,1.00,pieces,0,0.0000,High
+Other,Freezer,4,2.00,packs,30,0.3000,Low
+Vegetables,Fridge,1,7.00,pieces,30,0.3333,High
+Meat & Seafood,Fridge,1,0.32,kg,30,0.6333,High
+Dairy,Fridge,10,272.41,g,0,0.0000,Medium
+Bakery,Freezer,9,606.97,g,21,0.2857,Medium
+Dairy,Freezer,1,0.40,L,1,1.0000,High
+Grains & Pantry,Fridge,39,2.00,packs,0,0.0000,Low
+Grains & Pantry,Fridge,6,831.96,g,14,0.0000,Medium
+Dairy,Fridge,0,943.01,ml,0,0.0000,High
+Fruits,Pantry,20,0.30,kg,30,0.1667,Low
+Grains & Pantry,Fridge,55,3.00,packs,10,0.1000,Low
+Other,Freezer,90,688.84,g,0,0.0000,Low
+Fruits,Pantry,5,1.34,kg,13,0.0000,Medium
+Bakery,Fridge,120,4.00,packs,0,0.0000,Low
+Beverages,Pantry,0,3.00,packs,12,0.4167,High
+Vegetables,Pantry,92,0.71,kg,25,0.1600,Low
+Bakery,Fridge,3,3.00,packs,0,0.0000,High
+Other,Pantry,1,4.00,pieces,6,0.0000,High
+Bakery,Fridge,2,8.00,pieces,10,0.0000,Medium
+Dairy,Fridge,77,735.75,g,0,0.0000,Low
+Meat & Seafood,Freezer,45,985.74,g,28,0.4286,Low
+Bakery,Freezer,120,6.00,pieces,4,0.0000,Low
+Dairy,Freezer,4,1.63,L,14,0.0000,Medium
+Meat & Seafood,Freezer,7,695.34,g,28,0.3571,Medium
+Beverages,Pantry,116,1031.26,ml,0,0.0000,Low
+Dairy,Fridge,45,978.14,g,22,0.5000,Medium
+Bakery,Fridge,0,2.00,packs,3,0.0000,High
+Meat & Seafood,Freezer,95,847.18,g,28,0.0714,Low
+Meat & Seafood,Fridge,21,993.53,g,0,0.0000,Medium
+Bakery,Pantry,51,7.00,pieces,11,0.0909,Low
+Fruits,Pantry,7,12.00,pieces,11,0.0000,Medium
+Fruits,Fridge,30,12.00,pieces,5,0.2000,Low
+Beverages,Fridge,77,4.00,packs,0,0.0000,Low
+Bakery,Pantry,3,2.00,packs,0,0.0000,High
+Meat & Seafood,Fridge,10,363.13,g,14,0.3571,Medium
+Grains & Pantry,Pantry,0,0.29,kg,26,0.1538,High
+Vegetables,Freezer,7,2.34,kg,25,0.4000,Low
+Fruits,Pantry,0,1.73,kg,30,0.3000,High
+Vegetables,Fridge,13,2.00,pieces,25,0.4000,Medium
+Dairy,Freezer,38,1.51,L,0,0.0000,Low
+Vegetables,Fridge,4,6.00,pieces,17,0.4706,Medium
+Beverages,Fridge,2,549.43,ml,20,0.4000,Medium
+Meat & Seafood,Fridge,3,877.73,g,7,0.2857,Medium
+Dairy,Freezer,22,927.41,g,14,0.1429,Low
+Fruits,Pantry,102,6.00,pieces,25,0.0400,Low
+Dairy,Freezer,3,856.91,g,27,0.2593,High
+Dairy,Fridge,4,886.65,ml,29,0.5172,High
+Meat & Seafood,Fridge,2,318.06,g,12,0.4167,Medium
+Meat & Seafood,Freezer,0,1.39,kg,0,0.0000,High
+Bakery,Fridge,4,744.89,g,22,0.0909,Medium
+Vegetables,Freezer,0,7.00,pieces,20,0.2000,High
+Meat & Seafood,Fridge,30,0.32,kg,0,0.0000,Low
+Fruits,Pantry,6,2.42,kg,8,0.0000,High
+Dairy,Fridge,3,155.84,g,11,0.6364,Medium
+Vegetables,Pantry,13,1.00,pieces,15,0.0667,Medium
+Beverages,Pantry,90,1.38,L,21,0.5238,Low
+Other,Fridge,3,1.00,packs,20,0.8500,Medium
+Vegetables,Pantry,1,0.19,kg,24,0.3750,High
+Dairy,Freezer,33,0.67,L,7,0.4286,Low
+Grains & Pantry,Fridge,0,3.12,kg,2,0.0000,Medium
+Dairy,Freezer,39,267.76,ml,0,0.0000,Low
+Meat & Seafood,Freezer,4,314.07,g,0,0.0000,Medium
+Vegetables,Pantry,79,1.79,kg,29,0.2759,Low
+Meat & Seafood,Fridge,5,0.63,kg,16,0.0625,Medium
+Grains & Pantry,Pantry,30,4.00,packs,6,0.5000,Low
+Meat & Seafood,Freezer,45,777.92,g,30,0.3667,Low
+Meat & Seafood,Freezer,70,0.76,kg,22,0.3636,Low
+Beverages,Pantry,90,1.57,L,0,0.0000,Low
+Bakery,Freezer,14,3.00,packs,0,0.0000,Medium
+Vegetables,Freezer,14,4.00,pieces,4,0.2500,Low
+Meat & Seafood,Fridge,3,944.57,g,11,0.0909,High
+Fruits,Fridge,10,5.00,pieces,28,0.0000,Low
+Dairy,Freezer,81,186.66,ml,17,0.2941,Low
+Fruits,Pantry,3,1.82,kg,0,0.0000,High
+Fruits,Fridge,2,7.00,pieces,19,0.0000,High
+Grains & Pantry,Fridge,0,2.85,kg,22,0.2273,High
+Dairy,Fridge,76,302.33,g,20,0.0500,Low
+Vegetables,Fridge,4,9.00,pieces,22,0.2273,High
+Meat & Seafood,Fridge,6,0.30,kg,30,0.0333,Medium
+Grains & Pantry,Fridge,4,820.48,g,0,0.0000,Medium
+Dairy,Freezer,5,594.72,ml,18,0.1111,Medium
+Fruits,Fridge,1,1.90,kg,3,0.0000,High
+Fruits,Fridge,84,4.00,pieces,24,0.4167,Low
+Vegetables,Freezer,7,0.66,kg,18,0.5000,Low
+Fruits,Fridge,13,1.69,kg,3,0.6667,Medium
+Vegetables,Pantry,0,0.35,kg,24,0.6250,High
+Dairy,Freezer,120,465.32,ml,22,0.1364,Low
+Other,Fridge,107,4.00,packs,0,0.0000,Low
+Bakery,Freezer,5,562.29,g,19,0.3158,Medium
+Beverages,Pantry,88,2.51,L,21,0.3810,Low
+Other,Pantry,1,5.00,pieces,4,0.2500,High
+Bakery,Pantry,7,111.00,g,19,0.1579,Medium
+Fruits,Fridge,60,2.98,kg,13,0.0000,Low
+Bakery,Pantry,79,4.00,packs,0,0.0000,Low
+Bakery,Pantry,7,4.00,packs,16,0.1250,Medium
+Vegetables,Fridge,1,7.00,pieces,0,0.0000,High
+Grains & Pantry,Pantry,14,816.82,g,26,0.2308,Medium
+Grains & Pantry,Pantry,7,3.00,packs,11,0.3636,Medium
+Meat & Seafood,Fridge,2,956.67,g,12,0.0833,High
+Dairy,Freezer,2,817.62,g,23,0.1304,High
+Beverages,Pantry,84,1.00,packs,3,0.0000,Low
+Grains & Pantry,Fridge,0,3.00,packs,18,0.0000,High
+Meat & Seafood,Freezer,45,1.62,kg,5,0.2000,Low
+Fruits,Pantry,92,2.65,kg,0,0.0000,Low
+Dairy,Fridge,1,186.40,ml,0,0.0000,High
+Beverages,Fridge,3,0.64,L,10,0.1000,Medium
+Fruits,Pantry,5,0.88,kg,12,0.0833,Medium
+Vegetables,Fridge,14,8.00,pieces,22,0.0909,Medium
+Grains & Pantry,Pantry,117,510.50,g,0,0.0000,Low
+Vegetables,Fridge,90,1.81,kg,25,0.6000,Low
+Meat & Seafood,Fridge,120,509.80,g,25,0.4000,Low
+Bakery,Freezer,2,10.00,pieces,17,0.0588,High
+Dairy,Freezer,108,653.90,ml,0,0.0000,Low
+Vegetables,Fridge,21,1.00,pieces,13,0.0769,Low
+Beverages,Fridge,7,1487.17,ml,18,0.0556,Medium
+Grains & Pantry,Pantry,45,314.34,g,21,0.2857,Low
+Bakery,Fridge,7,10.00,pieces,19,0.2105,Medium
+Beverages,Pantry,120,5.00,packs,21,0.6667,Low
+Other,Pantry,1,318.40,g,16,0.1875,High
+Fruits,Fridge,90,11.00,pieces,2,0.5000,Low
+Bakery,Freezer,1,510.07,g,15,0.3333,High
+Vegetables,Pantry,3,7.00,pieces,0,0.0000,High
+Beverages,Pantry,5,5.00,packs,13,0.4615,Medium
+Bakery,Fridge,1,7.00,pieces,0,0.0000,High
+Grains & Pantry,Pantry,30,555.44,g,20,0.2000,Low
+Bakery,Pantry,32,1.00,packs,1,1.0000,Low
+Grains & Pantry,Pantry,3,124.07,g,22,0.3636,Medium
+Vegetables,Pantry,90,1.00,pieces,10,0.2000,Low
+Beverages,Pantry,119,5.00,packs,0,0.0000,Low
+Fruits,Pantry,6,12.00,pieces,1,0.0000,Medium
+Bakery,Freezer,2,2.00,packs,27,0.1481,Medium
+Fruits,Pantry,45,2.97,kg,17,0.0588,Low
+Bakery,Freezer,1,12.00,pieces,30,0.2667,High
+Grains & Pantry,Fridge,31,4.29,kg,25,0.3600,Low
+Dairy,Fridge,1,598.55,g,21,0.0952,High
+Fruits,Pantry,2,11.00,pieces,26,0.3846,High
+Dairy,Fridge,1,530.50,g,30,0.6667,High
+Meat & Seafood,Fridge,54,404.94,g,0,0.0000,Low
+Grains & Pantry,Pantry,12,4.00,packs,20,0.2000,Medium
+Other,Freezer,5,2.00,packs,29,0.3448,Medium
+Beverages,Fridge,60,921.28,ml,22,0.0909,Low
+Meat & Seafood,Fridge,1,783.34,g,16,0.3750,High
+Vegetables,Fridge,6,2.00,pieces,20,0.3000,Medium
+Grains & Pantry,Pantry,120,1.00,packs,15,0.0000,Low
+Beverages,Fridge,5,1.73,L,0,0.0000,Medium
+Meat & Seafood,Freezer,1,431.09,g,1,0.0000,High
+Bakery,Freezer,6,492.04,g,26,0.3846,Medium
+Vegetables,Pantry,1,0.64,kg,13,0.3077,High
+Grains & Pantry,Fridge,1,122.96,g,0,0.0000,High
+Dairy,Fridge,45,669.97,ml,0,0.0000,Low
+Meat & Seafood,Fridge,30,0.43,kg,0,0.0000,Low
+Other,Pantry,14,879.81,g,24,0.2500,Medium
+Bakery,Fridge,4,504.18,g,29,0.1379,Medium
+Meat & Seafood,Fridge,6,1119.85,g,28,0.3571,High
+Grains & Pantry,Pantry,0,1.27,kg,5,0.8000,High
+Other,Fridge,5,5.00,packs,0,0.0000,Medium
